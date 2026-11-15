@@ -1,0 +1,43 @@
+# Conveasy
+
+> Conveasy is AI ordering software for restaurants in Belgium and the Benelux. An AI takes orders and table reservations by phone and on WhatsApp, 24/7 and in 60+ languages. Restaurants also get a commission-free webshop with QR ordering, a self-order kiosk (card and online payments only) and Marketing AI, which includes a digital stamp card in Google Wallet and Apple Wallet. All orders and reservations land in one dashboard, on the kitchen screen and on the kitchen printer.
+
+Key facts:
+- Phone AI: €249/month (500 minutes), €449/month (1,000 minutes), €799/month (2,000 minutes). Handles 50+ calls at the same time.
+- Phone AI also: recognises returning callers (name, address, last order), checks the delivery address against the street list and delivery zones, transfers to staff when the caller asks, takes add-ons in the same call, answers outside opening hours to say when the restaurant opens again, and sends callers who hung up without ordering a WhatsApp message to order after all.
+- WhatsApp AI: €99/month, on the restaurant's own WhatsApp number. Payment link for deliveries (Klarna and meal vouchers included, an unpaid link expires after 20 minutes); delivery cost, minimum order and free delivery worked out per address; table reservations can be booked, changed and cancelled in the chat; prepaid cards accepted.
+- Webshop + QR ordering: €79/month, 0% commission on orders. Live order tracking with a countdown and a map, one-tap reorder, promotions (2-for-1, discount codes, free delivery, menu deals), five designs, the 14 allergens per product, an app for the restaurant's own drivers, analytics and Z-reports.
+- Self-order kiosk: €89/month; 21.5-inch table-stand kiosk hardware €1,599 one-time (payable in 3 instalments), other models on request.
+- One-time setup fee: €299 for phone AI, €199 for each other channel, €399 for phone AI + WhatsApp AI + webshop + kiosk together.
+- Works separately from the restaurant's till (POS); each channel can be bought on its own.
+- Works for every kind of restaurant: it uses the restaurant's own menu. Pages for frituren (Belgian fry shops), sushi restaurants, pizzerias, burger restaurants, kebab shops and all other restaurants.
+- Table reservations 24/7 through the phone AI and the WhatsApp AI; each reservation (name, date, time, party size) lands in the dashboard. Included in the phone AI and WhatsApp AI price at no extra cost.
+- Marketing AI: €69/month. Announcements to customers on all channels, Google review links, automatic emails for a second order and for unfinished orders, prepaid cards, and a digital stamp card in Google Wallet and Apple Wallet with notifications.
+- Contact: phone +1 878 880 1550, email conveasyai@gmail.com, WhatsApp and demo requests at https://conveasy.ai/en/contact
+- Company: Balloz Solutions LLC, 1209 Mountain Road Pl NE STE N, Albuquerque, NM 87110, USA. EIN 61-2205005.
+
+## Products (English)
+- [Phone AI](https://conveasy.ai/en/phone-ai): Answers every call, even during the rush. The order goes straight to the kitchen.
+- [WhatsApp AI](https://conveasy.ai/en/whatsapp-ai): Customers order on your own WhatsApp number. The AI replies 24/7.
+- [Webshop and QR](https://conveasy.ai/en/webshop): Your own ordering website with online payment and QR ordering. 0% commission.
+- [Self-order kiosk](https://conveasy.ai/en/kiosk): Customers order and pay at the kiosk themselves. Shorter queues at the counter.
+- [Marketing AI](https://conveasy.ai/en/marketing-ai): Announcements, Google reviews, automatic emails, prepaid cards and a stamp card in the wallet.
+
+## Restaurant types (English)
+- [Fry shops](https://conveasy.ai/en/frituur): Friday night, the fryer is full and the phone keeps ringing. Conveasy takes every order on the phone and WhatsApp, with every sauce and size, and prints the ticket in the kitchen.
+- [Sushi restaurants](https://conveasy.ai/en/sushi): Boxes, rolls, no cucumber, extra wasabi, soy sauce on the side: sushi orders have a lot of details. Conveasy takes them on the phone and WhatsApp, gets everything right on the ticket and takes your table reservations too.
+- [Pizzerias](https://conveasy.ai/en/pizzeria): Size, extra toppings, no onion, delivery or pickup: pizza orders have a lot of details. Conveasy takes them on the phone and WhatsApp and gets everything right on the ticket.
+- [Burger restaurants](https://conveasy.ai/en/burger): Meals, extra cheese, no pickles, fries and a drink. Conveasy takes burger orders on the phone and WhatsApp, and with a kiosk customers order themselves at the counter.
+- [Kebab shops](https://conveasy.ai/en/kebab): Pitta or dürüm, chicken or veal, with everything or no onion, which sauce: kebab orders have a lot of choices. Conveasy takes them on the phone and WhatsApp, even late at night, and gets everything right on the ticket.
+- [All restaurants](https://conveasy.ai/en/all-restaurants): Whatever you serve, the AI works with your own menu, with your sizes, choices and extras. Pickup, delivery or at the table: orders and reservations come in by phone, WhatsApp, your webshop and your kiosk.
+
+## Other pages
+- [Pricing](https://conveasy.ai/en/pricing)
+- [About](https://conveasy.ai/en/about)
+- [Contact](https://conveasy.ai/en/contact)
+
+## Other languages
+- Nederlands: https://conveasy.ai/nl/
+- Français: https://conveasy.ai/fr/
+- Türkçe: https://conveasy.ai/tr/
+- Deutsch: https://conveasy.ai/de/
