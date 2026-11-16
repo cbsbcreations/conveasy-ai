@@ -1,6 +1,6 @@
 # Conveasy
 
-> Conveasy is AI ordering software for restaurants in Belgium and the Benelux. An AI takes orders and table reservations by phone and on WhatsApp, 24/7 and in 60+ languages. Restaurants also get a commission-free webshop with QR ordering, a self-order kiosk (card and online payments only) and Marketing AI, which includes a digital stamp card in Google Wallet and Apple Wallet. All orders and reservations land in one dashboard, on the kitchen screen and on the kitchen printer.
+> Conveasy is AI ordering software for restaurants in Europe. An AI takes orders and table reservations by phone and on WhatsApp, 24/7 and in 60+ languages. Restaurants also get a commission-free webshop with QR ordering, a self-order kiosk (card and online payments only) and Marketing AI, which includes a digital stamp card in Google Wallet and Apple Wallet. All orders and reservations land in one dashboard, on the kitchen screen and on the kitchen printer.
 
 Key facts:
 - Phone AI: €249/month (500 minutes), €449/month (1,000 minutes), €799/month (2,000 minutes). Handles 50+ calls at the same time.
@@ -33,11 +33,17 @@ Key facts:
 
 ## Other pages
 - [Pricing](https://conveasy.ai/en/pricing)
+- [Commission calculator](https://conveasy.ai/en/commission-calculator): what platform commission costs a restaurant per month and per year, and from how many orders the restaurant's own webshop (€79/month) pays for itself.
 - [About](https://conveasy.ai/en/about)
 - [Contact](https://conveasy.ai/en/contact)
+- Referral: a Conveasy client who recommends a restaurant that becomes a client gets their next month free.
 
 ## Other languages
+- Deutsch: https://conveasy.ai/de/
 - Nederlands: https://conveasy.ai/nl/
 - Français: https://conveasy.ai/fr/
+- Español: https://conveasy.ai/es/
+- Português: https://conveasy.ai/pt/
+- Italiano: https://conveasy.ai/it/
 - Türkçe: https://conveasy.ai/tr/
-- Deutsch: https://conveasy.ai/de/
+- Belgium, in Dutch and French: https://conveasy.be/nl/ and https://conveasy.be/fr/
