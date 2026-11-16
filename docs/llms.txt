@@ -33,10 +33,9 @@ Key facts:
 
 ## Other pages
 - [Pricing](https://conveasy.ai/en/pricing)
-- [Commission calculator](https://conveasy.ai/en/commission-calculator): what platform commission costs a restaurant per month and per year, and from how many orders the restaurant's own webshop (€79/month) pays for itself.
+- [Commission calculator](https://conveasy.ai/en/commission-calculator): how much a restaurant saves per month and per year when its platform orders come in through its own commission-free webshop (€79/month) instead.
 - [About](https://conveasy.ai/en/about)
 - [Contact](https://conveasy.ai/en/contact)
-- Referral: a Conveasy client who recommends a restaurant that becomes a client gets their next month free.
 
 ## Other languages
 - Deutsch: https://conveasy.ai/de/
@@ -46,4 +45,4 @@ Key facts:
 - Português: https://conveasy.ai/pt/
 - Italiano: https://conveasy.ai/it/
 - Türkçe: https://conveasy.ai/tr/
-- Belgium, in Dutch and French: https://conveasy.be/nl/ and https://conveasy.be/fr/
+- For restaurants in Belgium: https://conveasy.be (same pages, same languages)
